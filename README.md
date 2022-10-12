@@ -9,7 +9,7 @@ Contain the benchmark dataset and biological knowledge of drugs and targets
     - python main.py 
 
 ### Requirements
-HINGRL is tested to work under Python 3.6.2  
+iGRLDTI is tested to work under Python 3.6.2  
 The required dependencies for iGRLDTI are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
 
 ### Contacts
