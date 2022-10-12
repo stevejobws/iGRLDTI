@@ -10,7 +10,7 @@ Contain the benchmark dataset and biological knowledge of drugs and targets
 
 ### Requirements
 HINGRL is tested to work under Python 3.6.2  
-The required dependencies for HINGRL are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
+The required dependencies for iGRLDTI are Keras, PyTorch, TensorFlow, numpy, pandas, scipy, and scikit-learn.
 
 ### Contacts
 If you have any questions or comments, please feel free to email BoWei Zhao (stevejobwes@gmail.com).
