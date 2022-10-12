@@ -4,7 +4,7 @@
 Contain the benchmark dataset and biological knowledge of drugs and targets
 
 ### 'src' directory
-1. Contain the source code of each classifier
+1. Contain source codes
 2. To predict DTIs by iGRLDTI, run
     - python main.py 
 
